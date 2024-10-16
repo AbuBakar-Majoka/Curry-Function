@@ -1,0 +1,13 @@
+				Youtube Explanation
+
+Authentication :-
+	When you try to login to youtube, it u enter any wrong email account, it denied you.
+
+Authorization :-
+	You can onlu upload video to your own channel, can't upload video to any other account.
+
+Stateless :-
+	If you play a video, than at any other time you play same video, it will start from start and again download or buffer from start. It does not remember that you played same video before so you can now watch it without sownloading or buffering.
+
+Statefull :-
+	When you watch video, youtube show or suggest videos of same content. For example you watch video of cricket, youtube suggest you the videos of cricket according to your preference.
